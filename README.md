@@ -11,9 +11,9 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ### 4. Calculate the maximum absolute row sum to find the infinity-norm and display all results in two decimal places.
 ### Program:
 ```
-### Register No: 26017320
-### Developed By: Gogulasharvathan M
-### 1-Norm of a Matrix
+ Register No: 26017320
+ Developed By: Gogulasharvathan M
+ 1-Norm of a Matrix
 Q.No.1
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
